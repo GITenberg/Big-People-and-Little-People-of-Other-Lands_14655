@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5615'
     url: http://www.gutenberg.org/2009/agents/5615
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14655#Big-People-and-Little-People-of-Other-Lands
 gutenberg_issued: '2005-01-10'
 gutenberg_type: Text
 identifiers:
