@@ -1,0 +1,28 @@
+_repo: Big-People-and-Little-People-of-Other-Lands_14655
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shaw, Edward R. (Edward Richard)
+    alias: Shaw, Edward Richard
+    birthdate: 1855
+    deathdate: 1903
+    gutenberg_agent_id: '5615'
+    url: http://www.gutenberg.org/2009/agents/5615
+description: ''
+gutenberg_issued: '2005-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14655'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s literature'
+- !lcsh 'Readers -- Geography'
+- !lcc 'G'
+title: Big People and Little People of Other Lands
+url: http://www.gutenberg.org/ebooks/14655
